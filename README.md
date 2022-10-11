@@ -9,12 +9,13 @@ Mi propósito es transformar un diseño en elementos que se pueda utilizar y cre
 En mi tiempo libre me encanta caminar y escuchar musica.
 
 ###
-
+```js
   const Andrea = {
    code: [Javascript, HTML5, CSS3],
    tools: [React, Node, Git, Jest, GitHub, Trello, Firebase],
   design: [Figma],
   challenge: "I'm learning web development in #180days, focused on JavaScript and React"
 }
+```
 
 
