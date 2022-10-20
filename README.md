@@ -1,7 +1,8 @@
 
 ### Hola Soy Andrea Santos  👋
 
-![como-avaliar-a-qualidade-do-codigo-770x515](https://user-images.githubusercontent.com/107779160/195121574-d8c29f84-973b-421d-8869-8f55e5482126.png)
+![como-avaliar-a-qualidade-do-codigo-500x100](https://user-images.githubusercontent.com/107779160/195121574-d8c29f84-973b-421d-8869-8f55e5482126.png)
+
 
 
 ### Sobre mí
