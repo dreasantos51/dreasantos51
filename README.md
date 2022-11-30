@@ -6,7 +6,7 @@
 
 
 ### Sobre mí
-Soy una Frond End, apasionada y mi propósito es transformar un diseño en elementos que se pueda utilizar y crear una experiencia  de usuario que sea positiva, me apasiona el trabajo en equipo, porque se une esfuerzos y se obtienen mejores resultados. Considero que tengo una adecuada capacidad de planificación, asi también como , disposición para aprender nuevas metodologías de trabajo ,lenguajes de programación Front End y Frameworks JS. Poseo habilidades de comunicación efectiva, buscando ser empática, autentica e impactar positivamente con el mensaje que transmito .
+Soy una Front End, apasionada y mi propósito es transformar un diseño en elementos que se pueda utilizar y crear una experiencia  de usuario que sea positiva, me apasiona el trabajo en equipo, porque se une esfuerzos y se obtienen mejores resultados. Considero que tengo una adecuada capacidad de planificación, asi también como , disposición para aprender nuevas metodologías de trabajo ,lenguajes de programación Front End y Frameworks JS. Poseo habilidades de comunicación efectiva, buscando ser empática, autentica e impactar positivamente con el mensaje que transmito .
 En mi tiempo libre me encanta caminar y escuchar musica.
 
 ###
